@@ -1,6 +1,6 @@
-# -Include
+# Aplicativo Gerenciador de Tarefas
 
 # Resumo:
-# aplicativo web gerenciador de finanças desenvolvido com Angular, Node.js 
-# e MySQL. Também foram feitos testes de segurança manuais e com o aplicativo
-# OWASP ZAP.
+    aplicativo web desenvolvido com Angular, Node.js e MySQL.
+    Também foram feitos testes de segurança manuais e com o 
+    aplicativo OWASP ZAP.
